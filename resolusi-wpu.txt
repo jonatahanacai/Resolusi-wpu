@@ -1,4 +1,6 @@
 WPU RESOLUSI
 - Konsisten untuk menonton pembelajaran dari wpu
 - membuat platform  untuk pengelolaan video
--membuat forum disksi
+- membuat forum disksi
+- mendesign figma
+- memperbaiki desain photoshop
