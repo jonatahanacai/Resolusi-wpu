@@ -2,6 +2,7 @@ RENCANA BELAJAR WPU
 
 - Javascript
 - PHP Frameworks
+- Video Teaser
 - Interview
 - Figma
  * membuat website sekolah
