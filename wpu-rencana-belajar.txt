@@ -2,6 +2,7 @@ RENCANA BELAJAR WPU
 
 - Javascript
 - PHP Frameworks
+  ^ laravel
 - Video Teaser
 - Interview
 - Figma
