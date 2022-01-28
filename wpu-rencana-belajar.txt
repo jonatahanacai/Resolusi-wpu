@@ -6,7 +6,7 @@ RENCANA BELAJAR WPU
     ^ Angular
     ^ React
 - PHP Frameworks
-- Video Teaser
+    ^ Laravel
 - Interview
 - Figma
  * membuat website sekolah
