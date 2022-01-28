@@ -1,6 +1,7 @@
 RENCANA BELAJAR WPU
 
 - Javascript
+  ^ React
 - PHP Frameworks
   ^ laravel
 - Video Teaser
