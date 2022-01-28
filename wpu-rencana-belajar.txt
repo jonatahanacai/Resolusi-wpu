@@ -1,10 +1,14 @@
 RENCANA BELAJAR WPU
 
 - Javascript
-  ^ React
+*ES6
+*Framework
+    ^ Angular
+    ^ React
+- PHP Frameworks
+    ^ Laravel
 - PHP Frameworks
   ^ laravel
-- Video Teaser
 - Interview
 - Figma
  * membuat website sekolah
