@@ -5,7 +5,6 @@ RENCANA BELAJAR WPU
 *Framework
     ^ Angular
     ^ React
-    ^ Vue
 - PHP Frameworks
     ^ Laravel
 - PHP Frameworks
